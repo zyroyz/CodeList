@@ -252,8 +252,6 @@
 "PBG2",
 "FYKH",
 "8IGS",
-Here's your list with each item enclosed in speech marks and followed by a comma:
-
 "NQF2",
 "JDHU",
 "CPV1",
@@ -453,4 +451,4 @@ Here's your list with each item enclosed in speech marks and followed by a comma
 "412G",
 "HNE1",
 "WWIA",
-"KI5U"
+"KI5U",
